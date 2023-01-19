@@ -1,0 +1,5 @@
+.window-peak {
+  background: url("./../../assets/windowpeakbg.png") center/cover no-repeat;
+  min-height: 29.5em;
+  background-attachment: fixed;
+}

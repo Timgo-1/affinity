@@ -1,0 +1,15 @@
+.footer a {
+  color: var(--bg-cyan);
+  text-decoration: none;
+}
+.footer a:hover {
+  color: var(--bg-plum);
+  text-decoration: underline overline;
+  text-decoration-style: double;
+  text-decoration-color: var(--bg-light-grey);
+  transition: var(--mainTransition);
+  -webkit-transition: var(--mainTransition);
+  -moz-transition: var(--mainTransition);
+  -ms-transition: var(--mainTransition);
+  -o-transition: var(--mainTransition);
+}

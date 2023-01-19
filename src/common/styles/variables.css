@@ -1,0 +1,19 @@
+:root {
+  --bg-black: midnightblue;
+  --text: mistyrose;
+  --mobile-box-shadow: #b0b0b229 0px -5px 6px 0px inset,
+    #0000003d 4px 6px 11px 1px inset;
+  --mobile-bg: teal;
+  --white-bg: powderblue;
+  --bg-green: olive;
+  --bg-gray: darkslategray;
+  --link-blue: dodgerblue;
+  --bg-light-gray: sienna;
+  --bg-light-grey: peachpuff;
+  --bg-red: sandybrown;
+  --bg-khaki: khaki;
+  --bg-purple: indigo;
+  --bg-blue: steelblue;
+  --bg-cyan: cyan;
+  --bg-plum: plum;
+}
