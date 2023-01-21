@@ -4,7 +4,7 @@ import "./footer.css";
 const Footer = () => {
   return (
     <div className="footer flex absolute-center max-width">
-      Made with 🔥  
+      Made with ♨  
       <p>
          By{" "}
         <a
