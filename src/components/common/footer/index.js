@@ -5,8 +5,7 @@ const Footer = () => {
   return (
     <div className="footer flex absolute-center max-width">
       Made with ♨  
-      <p>
-         By{" "}
+         By &nbsp;
         <a
           target="_blank"
           rel="noreferrer"
@@ -14,7 +13,6 @@ const Footer = () => {
         >
           Timgo Designs
         </a>
-      </p>
     </div>
   );
 };
